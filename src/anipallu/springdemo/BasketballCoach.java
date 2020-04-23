@@ -3,6 +3,6 @@ package anipallu.springdemo;
 public class BasketballCoach implements Coach{
     @Override
     public String getDailyWorkout(){
-        return "Sprint kar bsdk aue white masrk show ho rha hai tere ko";
+        return "Sprint kar bhai aur white mark show ho rha hai tere ko....???";
     }
 }
